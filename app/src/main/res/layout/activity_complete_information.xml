@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="150"
+    android:background="@color/white"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:textAlignment="center"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="300dp"
+        android:text="@string/complete_your_information"
+        android:textAlignment="center"
+        android:textColor="#2196F3"
+        android:textSize="24sp"
+        android:textStyle="normal|bold|italic" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/textView11"
+            android:layout_width="100dp"
+            android:layout_height="40dp"
+            android:gravity="center"
+            android:text="@string/gender" />
+
+        <RadioButton
+            android:id="@+id/radioButton2"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="@string/male"
+            tools:ignore="TouchTargetSizeCheck" />
+
+        <RadioButton
+            android:id="@+id/radioButton3"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="@string/female"
+            tools:ignore="TouchTargetSizeCheck" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:gravity="center"
+android:layout_marginTop="10dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="@string/wieght" />
+
+        <ImageButton
+            android:id="@+id/imageButton2"
+            android:layout_width="5dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:background="#FAF6F6"
+            android:contentDescription="@string/todo"
+            app:srcCompat="@drawable/resource__"
+            tools:ignore="ImageContrastCheck,DuplicateSpeakableTextCheck" />
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:text="@string/textview" />
+
+        <ImageButton
+            android:id="@+id/imageButton3"
+            android:layout_width="5dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:background="#FAF6F6"
+            android:contentDescription="@string/todo"
+            app:srcCompat="@drawable/___"
+            tools:ignore="ImageContrastCheck" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal"
+        >
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="@string/lenght" />
+
+        <ImageButton
+            android:id="@+id/imageButton4"
+            android:layout_width="5dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:background="#FAF6F6"
+            android:contentDescription="@string/todo"
+            app:srcCompat="@drawable/resource__"
+            tools:ignore="SpeakableTextPresentCheck,ImageContrastCheck"
+
+            />
+
+
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:text="@string/textview" />
+
+        <ImageButton
+            android:id="@+id/imageButton5"
+            android:layout_width="5dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:background="#FAF6F6"
+            android:contentDescription="@string/todo"
+            app:srcCompat="@drawable/___"
+            tools:ignore="SpeakableTextPresentCheck,ImageContrastCheck" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="20dp"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:text="@string/dateofbirth"
+android:gravity="center"
+            android:textAlignment="center"
+            android:textIsSelectable="false" />
+
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:text="@string/textview"
+            android:textAlignment="center" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+
+        android:layout_marginTop="40dp"
+        android:layout_marginBottom="400dp"
+        android:backgroundTint="#0884E6"
+        android:text="@string/savedata"
+        android:textColor="@color/white"
+        android:textColorHint="#0C436E"
+        tools:ignore="TextContrastCheck" />

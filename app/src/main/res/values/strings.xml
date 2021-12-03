@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Splash activity</string>
+    <string name="next">Next</string>
+    <string name="todo">TODO</string>
+    <string name="welcom_back">welcom back</string>
+    <string name="if_you_already_have_an_account_log_in">if you already have an account log in</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="log_in">log_in</string>
+    <string name="you_dont_have_an_account">you dont have an account</string>
+    <string name="sign_up">sign_up</string>
+    <string name="login">login</string>
+    <string name="create">create</string>
+    <string name="you_have_an_account">you have an account</string>
+    <string name="re_password1">re password1</string>
+    <string name="password1">password1</string>
+    <string name="e_mail">e_mail</string>
+    <string name="name">name</string>
+    <string name="if_you_do_not_already_have_an_account">if you do not already have an account</string>
+    <string name="creat_new_account">creat new account</string>
+    <string name="savedata">savedata</string>
+    <string name="textview">textview</string>
+    <string name="dateofbirth">dateofbirth</string>
+    <string name="textview">textview</string>
+    <string name="textview">textview</string>
+    <string name="female">female</string>
+    <string name="wieght">wieght</string>
+    <string name="male">male</string>
+    <string name="gender">gender</string>
+    <string name="complete_your_information">complete your information</string>
+    <string name="lenght">lenght</string>
+    <string name="hint">hint</string>
+    <string name="hi_mohammed">Hi,Mohammed</string>
+    <string name="current_status">current status</string>
+    <string name="normal_still_good">Normal(still Good)</string>
+</resources>
