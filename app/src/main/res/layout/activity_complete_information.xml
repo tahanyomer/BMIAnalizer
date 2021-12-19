@@ -185,3 +185,4 @@ android:gravity="center"
         android:textColor="@color/white"
         android:textColorHint="#0C436E"
         tools:ignore="TextContrastCheck" />
+</LinearLayout>

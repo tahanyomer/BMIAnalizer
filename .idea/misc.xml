@@ -4,11 +4,16 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Splashactivity/app/src/main/res/drawable/ic_launcher_background.xml" value="0.25925925925925924" />
-        <entry key="..\:/Splashactivity/app/src/main/res/layout/activity_complete_information.xml" value="0.25416666666666665" />
+        <entry key="..\:/Splashactivity/app/src/main/res/layout/activity_add_bmirecord.xml" value="0.25416666666666665" />
+        <entry key="..\:/Splashactivity/app/src/main/res/layout/activity_addfooddetails.xml" value="0.25416666666666665" />
+        <entry key="..\:/Splashactivity/app/src/main/res/layout/activity_complete_information.xml" value="0.264" />
         <entry key="..\:/Splashactivity/app/src/main/res/layout/activity_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Splashactivity/app/src/main/res/layout/activity_home2.xml" value="0.25416666666666665" />
         <entry key="..\:/Splashactivity/app/src/main/res/layout/activity_loginactivity.xml" value="0.25416666666666665" />
         <entry key="..\:/Splashactivity/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
-        <entry key="..\:/Splashactivity/app/src/main/res/layout/activity_registrationactivity.xml" value="0.25416666666666665" />
+        <entry key="..\:/Splashactivity/app/src/main/res/layout/activity_registrationactivity.xml" value="0.1" />
+        <entry key="..\:/Splashactivity/app/src/main/res/layout/home_recycle_element.xml" value="0.13020833333333334" />
+        <entry key="..\:/Splashactivity/app/src/main/res/layout/toolbar.xml" value="0.25416666666666665" />
         <entry key="..\:/Splashactivity/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.25925925925925924" />
       </map>
     </option>

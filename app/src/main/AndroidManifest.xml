@@ -10,7 +10,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SplashActivity">
         <activity
-            android:name=".HomeActivity"
+            android:name=".AddfooddetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AddBMIrecordActivity"
+            android:exported="false" />
+        <activity
+            android:name=".homeActivity2"
             android:exported="false" />
         <activity
             android:name=".CompleteInformationActivity"

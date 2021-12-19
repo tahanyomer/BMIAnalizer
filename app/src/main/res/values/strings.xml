@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Splash activity</string>
     <string name="next">Next</string>
-    <string name="todo">TODO</string>
+    <string name="v">v</string>
     <string name="welcom_back">welcom back</string>
     <string name="if_you_already_have_an_account_log_in">if you already have an account log in</string>
     <string name="username">username</string>
@@ -15,14 +15,12 @@
     <string name="re_password1">re password1</string>
     <string name="password1">password1</string>
     <string name="e_mail">e_mail</string>
-    <string name="name">name</string>
+    <string name="h">name</string>
     <string name="if_you_do_not_already_have_an_account">if you do not already have an account</string>
     <string name="creat_new_account">creat new account</string>
     <string name="savedata">savedata</string>
     <string name="textview">textview</string>
     <string name="dateofbirth">dateofbirth</string>
-    <string name="textview">textview</string>
-    <string name="textview">textview</string>
     <string name="female">female</string>
     <string name="wieght">wieght</string>
     <string name="male">male</string>
@@ -33,4 +31,32 @@
     <string name="hi_mohammed">Hi,Mohammed</string>
     <string name="current_status">current status</string>
     <string name="normal_still_good">Normal(still Good)</string>
+    <string name="himohammed">Hi, Mohammed</string>
+    <string name="name1">Name</string>
+    <string name="HiMohammed">TextView</string>
+    <string name="himohammed1">Hi,Mohammed</string>
+    <string name="add_food">Add Food</string>
+    <string name="add_record">Add Record</string>
+    <string name="view_food">View Food</string>
+    <string name="logout">Logout</string>
+    <string name="textview1">TextView</string>
+    <string name="old_status">old status</string>
+    <string name="holder">holder</string>
+    <string name="bmirecored">BMIrecored</string>
+    <string name="user">user</string>
+    <string name="adapter">Adapter</string>
+    <string name="newrecord">NewRecord</string>
+    <string name="t">TODO</string>
+    <string name="m">TODO</string>
+    <string name="n">TODO</string>
+    <string name="o">TODO</string>
+    <string name="date">date</string>
+    <string name="add_food_details">Add Food Details</string>
+    <string name="name">name</string>
+    <string name="categery">categery</string>
+    <string name="calary">calary</string>
+    <string name="photo">photo</string>
+    <string name="save">Save</string>
+    <string name="todo">TODO</string>
+    <string name="upload_photo">Upload photo</string>
 </resources>
